@@ -6,6 +6,8 @@ I like building stuff just to see if I can, and I've been doing that for about 1
 
 You can catch me at alexandria@paranoici.org
 
+[Gitlab](https://gitlab.com/users/lispwitch/projects)
+[Codeberg](https://codeberg.org/lexiwitch)
 <!---
 alexandria-gfsc/alexandria-gfsc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
